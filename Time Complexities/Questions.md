@@ -1,0 +1,11 @@
+1) https://www.interviewbit.com/problems/loopcmpl/
+2) https://www.interviewbit.com/problems/nestedcmpl/
+3) https://www.interviewbit.com/problems/choose4/
+4) https://www.interviewbit.com/problems/whilecmpl/
+5) https://www.interviewbit.com/problems/nestedcmpl3/
+6) https://www.interviewbit.com/problems/loopcmpl2/
+7) https://www.interviewbit.com/problems/gcdcmpl/
+8) https://www.interviewbit.com/problems/amortized1/
+9) https://www.interviewbit.com/problems/choose3/
+10) https://www.interviewbit.com/problems/choose1/
+11) https://www.interviewbit.com/problems/choose2/
